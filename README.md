@@ -1,2 +1,2 @@
-# Stakeing
+# Staking
 Solidity staking.
